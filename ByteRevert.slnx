@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ByteRevert/ByteRevert.vcxproj" Id="c055758d-3a01-43a3-b8a4-faa3dd2b2afa" />
+</Solution>
